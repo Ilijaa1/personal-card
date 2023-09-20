@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `personal card`
 
 In this react app I made my personal card with my basic data. 
-For icons I used website [Font Awesome](https://fontawesome.com/start).
+For icons I used website [Font Awesome](https://fontawesome.com/start){:target="_blank"}.
